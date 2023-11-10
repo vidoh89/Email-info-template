@@ -34,3 +34,6 @@ Gives statistics on email opens. This is broken down by different categories lik
 ----------------------------
 --<table role="presentation"></table>--
 The role attribute with presentation value- this attribute should be applied to all table tags used in email templates.It assist with sreen readers and accessibility by having the screen reader focus on the table content instead of the table tags.
+
+<client market share found https://www.litmus.com/email-client-market-share/>
+
